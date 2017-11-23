@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 11111
 22222
+=======
+
+>>>>>>> parent of 0a244fd... fff
 </body>
 </html>
